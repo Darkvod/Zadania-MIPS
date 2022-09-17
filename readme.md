@@ -1,4 +1,5 @@
 ## Zadania z programowania procesora MIPS
+Być może komuś przydadzą się rozwiązania :>
 Legenda do plików:
 ```
 z2_2	Napisz program który pyta użytkownika o ulubione ciasto. Następnie wyświetla komunikat: „Wiec mowisz ze lubisz _______ !”. Gdzie w miejsce ”_____” wpisywana jest nazwa ciasta podana przez użytkownika. 
